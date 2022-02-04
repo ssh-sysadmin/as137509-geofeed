@@ -1,4 +1,4 @@
-# RFC 8802 compliant Geofeed so that GeoLocation info providers can automatically update their databases.
+# RFC 8805 compliant Geofeed so that GeoLocation info providers can automatically update their databases.
 # All prefixes listed here maintained by Samuel Levy or Kersip Operations LLC.
 
 # This GeoFeed can be obtained at https://geofeed.as137509.net/, or https://geofeed.as137509.net/geofeed.csv if preferred.
