@@ -1,7 +1,25 @@
+# RFC 8802 compliant Geofeed so that GeoLocation info providers can automatically update their databases.
+# All prefixes listed here maintained by Samuel "SSH" Levy or Kersip Operations LLC.
+
+# This GeoFeed can be obtained at https://geofeed.as137509.net/, or https://geofeed.as137509.net/geofeed.csv if preferred.
+
+# Unused/Parent prefixes, set to zero data to (hopefully) flush out inaccurate data.
+207.167.132.0/22,,,,
+206.82.248.0/22,,,,
+2a0e:46c4:2c20::/44,,,,
+
+
 207.167.132.0/24,US,US-TX,Houston,
+207.167.133.0/24,US,US-FL,Miami,
 206.82.248.0/24,US,US-TX,Houston,
+206.82.249.0/24,US,US-CA,Fremont,
 206.82.251.0/24,US,US-TX,Houston,
 2a0e:46c4:2c21::/48,DE,DE-HE,Frankfurt,
 2a0e:46c4:2c22::/48,US,US-TX,Houston,
 2a0e:46c4:2c23::/48,US,US-TX,Houston,
 2a0e:46c4:2c25::/48,CH,CH-ZH,Zurich,
+
+# Anyone is welcome to use this Geofeed.
+
+# If any IP Information provider has a system for self-publishing of ISP/Organization information, we would be happy to publish information in a compatible format. 
+# Just reach out to noc@as137509.net or noc@ssh.contact
