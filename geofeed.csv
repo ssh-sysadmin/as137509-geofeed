@@ -25,6 +25,8 @@
 2a0e:46c4:2c23::/48,US,US-TX,Houston,
 2a0e:46c4:2c25::/48,CH,CH-ZH,Zurich,
 2602:fbe6:10::/44,US,US-NY,New York,
+2602:fbe6::/44,US,US-FL,Tampa,
+2602:fed2:7060::/44,US,US-NY,New York,
 
 # Anyone is welcome to use this Geofeed.
 
