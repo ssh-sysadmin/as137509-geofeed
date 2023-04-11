@@ -4,22 +4,16 @@
 # This GeoFeed can be obtained at https://geofeed.as137509.net/, or https://geofeed.as137509.net/geofeed.csv if preferred.
 
 # Unused/Parent prefixes, set to zero data to (hopefully) flush out inaccurate data.
-207.167.132.0/22,,,,
 206.82.248.0/22,,,,
 2a0e:46c4:2c20::/44,,,,
 2a0e:46c4:1500::/40,,,,
 
 
-207.167.132.0/24,US,US-TX,Houston,
-207.167.133.0/24,US,US-FL,Miami,
-207.167.134.0/24,US,US-TX,Houston,
-207.167.135.0/24,US,US-TX,Houston,
+207.167.132.0/22,US,US-TX,Houston,
 206.82.248.0/24,US,US-TX,Houston,
 206.82.249.0/24,US,US-CA,Fremont,
 206.82.250.0/24,US,US-TX,Houston,
 206.82.251.0/24,US,US-TX,Houston,
-38.87.161.0/24,US,US-TX,Houston,
-38.87.166.0/23,US,US-TX,Houston,
 2a0e:46c4:2c21::/48,DE,DE-HE,Frankfurt,
 2a0e:46c4:2c22::/48,US,US-TX,Houston,
 2a0e:46c4:2c23::/48,US,US-TX,Houston,
