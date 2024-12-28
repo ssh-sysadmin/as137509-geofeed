@@ -12,14 +12,12 @@
 2602:fbe6::/36,,,,
 
 
-
+206.82.248.0/24,US,US-FL,Orlando,
 206.82.249.0/24,US,US-CA,Fremont,
 207.167.133.0/24,US,US-NY,New York,
 206.82.251.0/24,US,US-TX,Houston,
-2a0e:46c4:2c21::/48,DE,DE-HE,Frankfurt,
 2a0e:46c4:2c22::/48,US,US-TX,Houston,
 2a0e:46c4:2c23::/48,US,US-TX,Houston,
-2a0e:46c4:2c25::/48,CH,CH-ZH,Zurich,
 2602:fbe6:10::/44,US,US-NY,New York,
 2602:fbe6::/44,US,US-FL,Tampa,
 2602:fed2:7060::/44,US,US-NY,New York,
